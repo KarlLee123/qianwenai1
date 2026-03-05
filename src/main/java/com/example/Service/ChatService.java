@@ -1,4 +1,4 @@
-package com.example.service;
+package com.example.Service;
 
 import com.alibaba.dashscope.aigc.generation.Generation;
 import com.alibaba.dashscope.aigc.generation.GenerationParam;
