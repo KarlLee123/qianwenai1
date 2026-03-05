@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-
+@CrossOrigin("*")
 @RestController
 @RequestMapping("/chat")
 public class ChatController {
